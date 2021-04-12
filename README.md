@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sainide
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi Everyone! Welcome to my GitHub Profile
 
-<!---
-sainide/sainide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Feel free to look around and use anything that you find interesting!
+
+**`Fun fact`** : I'm mostly (~80%) deaf in my right ear so if you have to tell me a secret always whisper in my left ear 😄
+
+<a href="https://www.linkedin.com/in/sainide/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/sainide"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
