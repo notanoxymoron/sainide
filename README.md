@@ -2,4 +2,4 @@
 
 ## Feel free to look around and use anything that you find interesting!
 
-**`Fun fact`** : I'm mostly (~80%) deaf in my right ear so if you have to tell me a secret always whisper in my left ear 😄
+**`Fun fact`** : :thought_balloon: Less than 0.5% of all data we create is ever analysed and used 
